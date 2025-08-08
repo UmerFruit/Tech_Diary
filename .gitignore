@@ -1,0 +1,34 @@
+# GitHub Pages / Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby
+Gemfile.lock
+.bundle/
+vendor/
+
+# Node.js (if using npm for any tools)
+node_modules/
+package-lock.json
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local environment files
+.env
+
+# Backup files
+*~
+*.bak
+
+# Logs
+*.log
