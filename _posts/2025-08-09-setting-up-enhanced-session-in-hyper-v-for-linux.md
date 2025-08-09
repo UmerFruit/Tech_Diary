@@ -1,6 +1,7 @@
 ---
 title: "Setting Up Enhanced Session in hyper-v for Linux"
 date: 2025-08-09 10:00:00 +0500
+date: 2025-08-09 10:00:00 +0500
 categories: [Setup]
 tags: [environment, tools]
 ---
@@ -51,14 +52,18 @@ In Hyper-V Manager, enable Enhanced Session Mode Policy.
 In PowerShell (admin):  
 `Set-VM -VMName <Your-VM-Name> -EnhancedSessionTransportType HvSocket` 
 
+
 **Side note**: Use quotes "VM Name" if your vm name contains spaces 
 examples:
 
+
 `Set-VM -VMName My_Ubuntu -EnhancedSessionTransportType HvSocket` 
+
 
 `Set-VM -VMName "My Ubuntu" -EnhancedSessionTransportType HvSocket` 
 
 Start VM, configure display, and log in with Ubuntu credentials and enjoy the linux experience.
 
 **Conclusion**  
+Enhanced session mode enables dynamic window resizing, clipboard sharing, file transfers, and resource access.
 Enhanced session mode enables dynamic window resizing, clipboard sharing, file transfers, and resource access.
