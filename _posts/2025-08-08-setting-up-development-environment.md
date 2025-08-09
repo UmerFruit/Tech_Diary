@@ -4,7 +4,7 @@ date: 2025-08-08 11:00:00 -0500
 categories: [Development, Setup]
 tags: [environment, tools, productivity, vscode]
 image:
-  path: /assets/img/posts/dev-environment.jpg
+  path: /assets/img/posts/dev_environment.png
   alt: Development Environment Setup
 ---
 

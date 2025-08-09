@@ -6,30 +6,25 @@ order: 4
 
 # About Tech Diary
 
-Welcome to my technical learning journal! This is where I document my programming journey, share insights, and reflect on the lessons learned while exploring various technologies and solving coding challenges.
+Welcome to my technical learning journal! This is where I document my programming journey, dump my brain onto digital paper, and keep track of all the stuff I'll inevitably forget three months from now.
 
-## What You'll Find Here
+## What This Really Is
 
-- **Learning Notes**: Detailed explorations of new technologies, frameworks, and programming concepts
-- **Project Insights**: Reflections on projects I'm working on, including challenges faced and solutions discovered
-- **Code Snippets**: Useful code examples and patterns I've found valuable
-- **Technical Tutorials**: Step-by-step guides for things I've learned and want to remember
-- **Problem-Solving Stories**: Real-world programming problems and how I approached solving them
+This site is primarily **my personal reference library**—a place where I store solutions, configurations, and "how did I do that again?" moments from my cybersecurity work. Think of it as my external hard drive for everything I've learned and whatever rabbit hole I've fallen into this week.
 
-## My Focus Areas
+*Because we've all been there trying to find that one youtube video out of dozens that gave you that **ONE** command you needed, or an article that did things with exactly your setup*
 
-- Web Development (Frontend & Backend)
-- Software Engineering Best Practices
-- Database Design and Optimization
-- DevOps and Deployment Strategies
-- Open Source Contributions
 
-## About Me
+While these notes are written for future-me, they might help you too.
 
-I'm a passionate developer who believes in continuous learning and sharing knowledge. This blog serves as both a personal reference and a way to contribute to the developer community.
+## The Approach
 
-Feel free to reach out if you have questions about any of the content or want to discuss programming topics!
+Everything here is:
+- **Tested in actual environments**, not just copy-pasted from documentation (*though sometimes it might be. hehe)* 
+- **Documented while fresh** (before I forget why I did it that way)
 
 ---
 
-*This blog is built with Jekyll using the Chirpy theme and hosted on GitHub Pages.*
+If you're here because I sent you a link instead of explaining something for the fifth time, welcome! If you found this randomly and it helps, even better.
+
+*Side effects may include solving your problem faster than expected.*

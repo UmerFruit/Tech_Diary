@@ -3,9 +3,6 @@ title: Welcome to My Tech Diary
 date: 2025-08-08 10:00:00 -0500
 categories: [General, Introduction]
 tags: [welcome, introduction, learning, programming]
-image:
-  path: /assets/img/posts/welcome-banner.jpg
-  alt: Welcome to Tech Diary
 ---
 
 # Welcome to My Technical Learning Journey
