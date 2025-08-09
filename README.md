@@ -42,11 +42,3 @@ categories: [Category1, Category2]
 tags: [tag1, tag2, tag3]
 ---
 ```
-
-## Deployment
-
-This site is automatically deployed to GitHub Pages when changes are pushed to the main branch.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
