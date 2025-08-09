@@ -25,7 +25,12 @@ This is the method to goto if you are install a linux system that is not ubuntu 
 6. Finally, Attach Ubuntu (or any other distribution) ISO.
 
 **Install Ubuntu**  
-Follow on screen configurations if you know what you are doing or follow a tutorial on how to install that linux distro if you don't.
+Follow on screen configurations if you know what you are doing or follow a tutorial on how to install that linux distro if you don't. 
+
+***Important***: Remember to disable auto login during setup. i.e.  
+- [X] Require my password to login  
+otherwise enhanced session's RDP won't work
+
 
 **Post-Installation**  
 Get the latest version of linux tools from: [Hinara's Github](https://github.com/Hinara/linux-vm-tools/tree/master) they currently have support for arch and ubuntu (so any debian based distro is also covered). I personally haven't tried to run arch in hyper-v yet, so use that at your own risk.
@@ -55,4 +60,4 @@ examples:
 Reboot host if needed. Start VM, configure display/resources, and log in with Ubuntu credentials.
 
 **Conclusion**  
-Enhanced session mode enables resizing, clipboard sharing, and resource access for Ubuntu 20.04 on Hyper-V.
+Enhanced session mode enables dynamic window resizing, clipboard sharing, file transfers, and resource access.
