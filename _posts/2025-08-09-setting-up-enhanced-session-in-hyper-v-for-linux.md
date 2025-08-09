@@ -66,4 +66,3 @@ Start VM, configure display, and log in with Ubuntu credentials and enjoy the li
 
 **Conclusion**  
 Enhanced session mode enables dynamic window resizing, clipboard sharing, file transfers, and resource access.
-Enhanced session mode enables dynamic window resizing, clipboard sharing, file transfers, and resource access.
