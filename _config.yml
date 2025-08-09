@@ -15,10 +15,11 @@ timezone: America/New_York
 paginate: 10
 
 # The title of your site
-title: Tech Diary
+title: Lallu Syndrome
 
 # The tagline for your site
-tagline:  aaa hi gaye ho to seekh ke jao kuch
+tagline:  Very serious condition. To avoid it, keep learning and improving.
+
 # The description of your site (for SEO)
 description: >-
   A technical diary and learning journal where I document my programming experiences,

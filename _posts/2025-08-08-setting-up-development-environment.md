@@ -72,15 +72,12 @@ Git configuration that saves time:
 ```bash
 git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
-git config --global init.defaultBranch main
-git config --global pull.rebase false
 ```
 
 ## Package Managers
 
 - **Node.js**: Using npm/yarn for JavaScript projects
 - **Python**: pip with virtual environments
-- **Ruby**: Bundler for Jekyll projects (like this blog!)
 
 ## Key Takeaways
 
