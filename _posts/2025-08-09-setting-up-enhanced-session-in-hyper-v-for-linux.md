@@ -5,7 +5,6 @@ date: 2025-08-09 10:00:00 +0500
 categories: [Setup]
 tags: [environment, tools]
 ---
-# Install Ubuntu 20.04 on Hyper-V with Enhanced Session
 
 While it does say linux in the title, i will mostly be referring to Ubuntu or debian based distros for this guide. The tools installed also have an **arch** version in the same repository so feel free to use that. 
 ***Skip to Post-Installation if you just need quick commands***
