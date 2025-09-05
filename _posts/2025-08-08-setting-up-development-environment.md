@@ -1,6 +1,6 @@
 ---
 title: "Setting Up a Development Environment"
-date: 2025-08-08 11:00:00 -0500
+date: 2025-07-08 11:00:00 -0500
 categories: [Development, Setup]
 tags: [environment, tools, productivity, vscode]
 image:
