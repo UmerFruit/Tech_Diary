@@ -1,6 +1,6 @@
 ---
 title: Welcome to My Tech Diary
-date: 2025-08-09 10:00:00 -0500
+date: 2025-06-09 10:00:00 -0500
 categories: [General, Introduction]
 tags: [welcome, introduction, learning, programming]
 ---
