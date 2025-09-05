@@ -20,11 +20,7 @@ tags: [environment, tools]
 
 1. Go to: [https://www.teamos.xyz/](https://www.teamos.xyz/)
 
-2. Click **Login** and use these credentials:
-
-    <Redacted>
-
-    or make your own account using **Sign Up**.
+2. Make your own account using **Sign Up**.
 
 3. Click **Torrents**.
 
