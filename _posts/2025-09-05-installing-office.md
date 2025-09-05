@@ -1,7 +1,7 @@
 ---
 title: "Installing Office"
-date: 2025-08-09 7:00:00 +0500
-date: 2025-08-09 7:00:00 +0500
+date: 2025-09-05 7:00:00 +0500
+date: 2025-09-05 7:00:00 +0500
 categories: [Setup]
 tags: [environment, tools]
 ---
