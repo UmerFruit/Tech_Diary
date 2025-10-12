@@ -1,10 +1,10 @@
 ---
-title: "charge limits on linux"
+title: "Battery Health on Debian"
 date: 2025-10-12 7:00:00 +0500
 categories: [Setup]
 tags: [environment,learning]
 ---
-Charge Limits to ensure Battery Health on Debian
+Imposing charge limits does a huge benifit to your battery life in the long run especially if you are someone like me who keeps their laptop plugged in most of the time. This will guide you to do that on Debian 13
 - Install tlp (Debian/Ubuntu):
 
 ```bash
