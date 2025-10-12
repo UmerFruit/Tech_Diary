@@ -4,10 +4,7 @@ date: 2025-10-12 7:00:00 +0500
 categories: [Setup]
 tags: [environment,learning]
 ---
-Keeping your laptop battery healthy on Linux is easy: use tlp to enable battery conservation or set charge thresholds.
-
-1-minute steps
-
+Charge Limits to ensure Battery Health on Debian
 - Install tlp (Debian/Ubuntu):
 
 ```bash
