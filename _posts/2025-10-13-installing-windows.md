@@ -29,7 +29,7 @@ tags: [windows, installation, tools]
 
 6. Look for a proper full OS, not Lite or other custom builds. Get the right Pro version. For me I preferred this ISO, but yours may be a newer version in the future:
 
-   **Windows 11 Professional 24H2 26100.4656 EN-US X64 Bypassed & Pre-activated -=TeamOS=- by Dark Wolf**
+   **Windows 11 Professional 24H2 26100.4656 EN-US X64 Bypassed & Pre-activated by Dark Wolf**
    His builds are really good and reliable; I've been using them for a long time without issues.
 
    > If you have an older laptop that might not run the latest Windows 11, try Windows 10 or an earlier Windows 11 build using the same process. Check your system requirements first.
