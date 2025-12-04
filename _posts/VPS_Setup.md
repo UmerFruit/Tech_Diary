@@ -1,3 +1,9 @@
+---
+title: "VPS setup"
+date: 2025-11-13 7:00:00 +0500
+categories: [Setup]
+tags: [windows, installation, tools]
+---
 Perfect — we can make a **fully generic GitHub Actions → VPS deployment guide** that works for **any project type**. This will give you a reference for future projects, and you can just plug in a project-specific `deploy.sh` and optionally generate a workflow YAML using an LLM.
 
 Here’s the **generic guide**:
