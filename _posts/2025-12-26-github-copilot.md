@@ -44,8 +44,6 @@ This step is required for identity verification. No charges will be applied.
    * Full name (must exactly match the name on your institute ID card)
    * All other required information
 
-![Payment Info](../assets/img/posts/payment_info.jpg)
-
 5. Save the changes
 
 ---
@@ -58,7 +56,6 @@ This step is required for identity verification. No charges will be applied.
    * If not, search and select it manually
 3. Click **Next**
 
-![Institute Select](../assets/img/posts/institute_select.jpg)
 4. Share your location when prompted
 
 ---
@@ -70,8 +67,6 @@ This step is required for identity verification. No charges will be applied.
 
    * Your name must be visible
    * Valid dates or enrollment details must be visible
-
-![ID Upload](../assets/img/posts/id_upload.jpg)
 
 3. Submit the application
 
