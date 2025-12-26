@@ -76,8 +76,6 @@ This step is required for identity verification. No charges will be applied.
 
 * Approval is usually granted within 30 seconds
 
-![]
-
 * GitHub Copilot access will be enabled within 72 hours after approval
 * Return to the **Education benefits** page
 * Use the provided links to redeem and activate GitHub Copilot
