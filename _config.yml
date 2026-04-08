@@ -28,6 +28,7 @@ description: >-
 # Replace with your domain, e.g., 'https://username.github.io'
 # For GitHub Pages, use: https://yourusername.github.io/repository-name
 url: "https://UmerFruit.github.io"
+baseurl: ""
 
 # GitHub information
 github:
